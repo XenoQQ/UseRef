@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+}
+
+.app {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: 150px;
+}
+
+.app__input {
+    border: none;
+    outline: none;
+    margin: 5px;
+}
